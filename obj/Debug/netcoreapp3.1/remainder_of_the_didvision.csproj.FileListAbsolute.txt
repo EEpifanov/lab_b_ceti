@@ -1,0 +1,14 @@
+C:\Users\Егор\source\repos\remainder_of_the_didvision\bin\Debug\netcoreapp3.1\remainder_of_the_didvision.exe
+C:\Users\Егор\source\repos\remainder_of_the_didvision\bin\Debug\netcoreapp3.1\remainder_of_the_didvision.deps.json
+C:\Users\Егор\source\repos\remainder_of_the_didvision\bin\Debug\netcoreapp3.1\remainder_of_the_didvision.runtimeconfig.json
+C:\Users\Егор\source\repos\remainder_of_the_didvision\bin\Debug\netcoreapp3.1\remainder_of_the_didvision.runtimeconfig.dev.json
+C:\Users\Егор\source\repos\remainder_of_the_didvision\bin\Debug\netcoreapp3.1\remainder_of_the_didvision.dll
+C:\Users\Егор\source\repos\remainder_of_the_didvision\bin\Debug\netcoreapp3.1\remainder_of_the_didvision.pdb
+C:\Users\Егор\source\repos\remainder_of_the_didvision\obj\Debug\netcoreapp3.1\remainder_of_the_didvision.csproj.AssemblyReference.cache
+C:\Users\Егор\source\repos\remainder_of_the_didvision\obj\Debug\netcoreapp3.1\remainder_of_the_didvision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\source\repos\remainder_of_the_didvision\obj\Debug\netcoreapp3.1\remainder_of_the_didvision.AssemblyInfoInputs.cache
+C:\Users\Егор\source\repos\remainder_of_the_didvision\obj\Debug\netcoreapp3.1\remainder_of_the_didvision.AssemblyInfo.cs
+C:\Users\Егор\source\repos\remainder_of_the_didvision\obj\Debug\netcoreapp3.1\remainder_of_the_didvision.csproj.CoreCompileInputs.cache
+C:\Users\Егор\source\repos\remainder_of_the_didvision\obj\Debug\netcoreapp3.1\remainder_of_the_didvision.dll
+C:\Users\Егор\source\repos\remainder_of_the_didvision\obj\Debug\netcoreapp3.1\remainder_of_the_didvision.pdb
+C:\Users\Егор\source\repos\remainder_of_the_didvision\obj\Debug\netcoreapp3.1\remainder_of_the_didvision.genruntimeconfig.cache
